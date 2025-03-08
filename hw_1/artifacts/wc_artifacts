@@ -1,0 +1,14 @@
+(advanced-python-course-py3.13) max@MacBook-Pro-Maksim Advanced-Python-Course % python3 hw_1/wc.py hw_1/artifacts/text_file_1.txt
+     14     5     44 hw_1/artifacts/text_file_1.txt
+(advanced-python-course-py3.13) max@MacBook-Pro-Maksim Advanced-Python-Course % python3 hw_1/wc.py hw_1/artifacts/text_file_1.txt hw_1/artifacts/text_file_2.txt hw_1/artifacts/text_file_3.txt
+     14       5       44 hw_1/artifacts/text_file_1.txt
+     18      18       45 hw_1/artifacts/text_file_2.txt
+     24     103     1139 hw_1/artifacts/text_file_3.txt
+     56     126     1228 total
+(advanced-python-course-py3.13) max@MacBook-Pro-Maksim Advanced-Python-Course % python3 hw_1/wc.py
+Строка 1
+Строка 2
+String 1
+String 2
+     4     8     48
+(advanced-python-course-py3.13) max@MacBook-Pro-Maksim Advanced-Python-Course %
