@@ -1,18 +1,25 @@
 [project]
 name = "advanced-python-course"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = [
-    {name = "max",email = "maxvasilek@mail.ru"}
+    {name = "max", email = "max@mail.ru"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.13,<4.0"
 dependencies = [
     "click (>=8.1.8,<9.0.0)",
-    "pylint (>=3.3.4,<4.0.0)"
+    "pdflatex (>=0.1.3,<0.2.0)",
+    "latex-image-and-table-generator (>=0.1.1,<0.2.0)",
+    "pylint (>=3.3.5,<4.0.0)",
+    "autopep8 (>=2.3.2,<3.0.0)"
 ]
-
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[[tool.poetry.source]]
+name = "testpypi"
+url = "https://test.pypi.org/simple/"
+priority = "supplemental"
