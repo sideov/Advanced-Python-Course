@@ -1,0 +1,27 @@
+(advanced-python-course-py3.13) max@MacBook-Pro-Maksim Advanced-Python-Course % python3 hw_1/nl.py hw_1/artifacts/text_file_1.txt
+      1  djafk
+      2  adjkhfg
+      3
+      4  jkadsf
+      5
+      6
+      7  asdasd
+      8
+      9
+      10
+      11  asdasd
+      12
+      13
+      14
+(advanced-python-course-py3.13) max@MacBook-Pro-Maksim Advanced-Python-Course % python3 hw_1/nl.py
+Строка 1
+     1  Строка 1
+Строка 2
+     2  Строка 2
+Строка 3
+     3  Строка 3
+Строка 4
+     4  Строка 4
+^C
+Aborted!
+(advanced-python-course-py3.13) max@MacBook-Pro-Maksim Advanced-Python-Course %
